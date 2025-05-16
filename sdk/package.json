@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@safe-global/protocol-kit": "^6.0.4",
+    "viem": "^2.29.3"
+  }
+}
